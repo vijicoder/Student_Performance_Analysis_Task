@@ -1,0 +1,1 @@
+Place your Jupyter notebooks in this folder. Suggested notebook name: `student_performance_exploration.ipynb`. Keep exploratory analysis separate from the preregistered primary analysis and document any deviations.
